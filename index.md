@@ -11,9 +11,9 @@ Welcome to the official documentation for Houseware. This documentation will gui
 
 ## Getting Started
 
-- [What is Houseware?](/docs/Overview/what-is-houseware-1) - Learn about Houseware and its core features
-- [Building Blocks of Houseware](/docs/Product%20Quickstart/building-blocks-of-houseware) - Understand the fundamental components
-- [Product Analysis](/docs/Product%20Analysis/trends) - Explore product analytics capabilities
+- [What is Houseware?](https://ayerajath.github.io/houseware-docs-export/docs/Overview/what-is-houseware-1) - Learn about Houseware and its core features
+- [Building Blocks of Houseware](https://ayerajath.github.io/houseware-docs-export/docs/Product%20Quickstart/building-blocks-of-houseware) - Understand the fundamental components
+- [Product Analysis](https://ayerajath.github.io/houseware-docs-export/docs/Product%20Analysis/trends) - Explore product analytics capabilities
 
 ## Key Features
 
