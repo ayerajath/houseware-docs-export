@@ -39,6 +39,9 @@ def create_navigation_structure():
         # Get all markdown files in this directory and its subdirectories
         md_files = get_md_files(dir_path)
         
+        # Sort the markdown files for consistent ordering
+        md_files.sort()
+        
         # Add each markdown file as a child
         for md_file in md_files:
             # Convert file path to URL format
@@ -46,12 +49,15 @@ def create_navigation_structure():
             # Get title from the first markdown file in each directory
             title = os.path.splitext(os.path.basename(md_file))[0].replace('-', ' ').title()
             
-            section['children'].append({
+            child = {
                 'title': title,
                 'url': url
-            })
+            }
+            section['children'].append(child)
         
-        navigation.append(section)
+        # Only add sections that have children
+        if section['children']:
+            navigation.append(section)
     
     return navigation
 
