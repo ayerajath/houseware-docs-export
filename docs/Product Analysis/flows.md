@@ -52,11 +52,11 @@ Using Flows (aka user journey map) can provide a wealth of insights into user be
 
 Here is the step-wise guide to help you create a Flow visualization on Houseware.
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(59% + 41px); height: 0;\"><iframe src=\"https://demo.arcade.software/nbgpRxSOTeE2i9OvpE4l?embed\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>"
 }
-[/block]
+[/block] -->
 
 
 ## Step 1: Choose the Flow type of visualization on your workspace

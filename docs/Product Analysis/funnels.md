@@ -52,11 +52,11 @@ Let's start with an example where the Funnel has steps: A, B, C, D, E and go thr
 
 # How to create a Funnel?
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(57.46341463414634% + 41px); height: 0;\"><iframe src=\"https://demo.arcade.software/FA9HxRKLnI4EtxU419hd?embed\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>"
 }
-[/block]
+[/block] -->
 
 
 Here is the step-wise guide to help you create a Funnel visualization on Houseware.

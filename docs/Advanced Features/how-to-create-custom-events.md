@@ -13,11 +13,11 @@ A custom event is a virtual event that can be created from one or more existing 
 
 Custom events provide flexibility to users to create their own KPIs on top of the existing granular events, relevant for their analysis. Let's look at how we actually create a custom event in Houseware.
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(53.20417287630402% + 41px); height: 0; width: 100%;\"><iframe src=\"https://demo.arcade.software/hmvEUN3FQPgUi1NFrNtx?embed\" title=\"Create Custom Events\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen allow=\"clipboard-write\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>\n"
 }
-[/block]
+[/block] -->
 
 
 ***

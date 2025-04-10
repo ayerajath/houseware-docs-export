@@ -84,22 +84,22 @@ On the events tab, an admin can add event descriptions and event tags, which are
 
 Watch below how an admin can add tags and descriptions to their events.
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(59% + 41px); height: 0;\"><iframe src=\"https://demo.arcade.software/hZiJeuiDRWK25GFJo2Vj?embed\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>"
 }
-[/block]
+[/block] -->
 
 
 ### Custom Events
 
 Custom events can also be created from the admin tab. Watch the video below to see how an admin can create custom events on Houseware.
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(53.20417287630402% + 41px); height: 0;\"><iframe src=\"https://demo.arcade.software/hmvEUN3FQPgUi1NFrNtx?embed\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>"
 }
-[/block]
+[/block] -->
 
 
 ## Dimensions Tab

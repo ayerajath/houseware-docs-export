@@ -28,11 +28,11 @@ Grant this role to allow the Houseware application to run jobs on BigQuery. This
 
 > 📘 **Note**: Granting this permission requires access to the IAM console. You may need to contact your data/infra team to get these permissions.
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(57.07482993197279% + 41px); height: 0; width: 100%;\"><iframe src=\"https://demo.arcade.software/jRy6PUFQuN03O6fCQUER?embed&show_copy_link=true\" title=\"Welcome – badger – Google Cloud console\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen allow=\"clipboard-write\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>"
 }
-[/block]
+[/block] -->
 
 
 <br />
@@ -43,11 +43,11 @@ Grant both roles to the Houseware service account so that the Houseware applicat
 
 The Houseware service account requires the `BigQuery Data Editor` and `BigQuery Data Viewer` roles. You can follow the below Arcade for reference on how to grant these permissions.
 
-[block:html]
+<!-- [block:html]
 {
   "html": "<div style=\"position: relative; padding-bottom: calc(57.07482993197279% + 41px); height: 0; width: 100%;\"><iframe src=\"https://demo.arcade.software/wsf82pWKSbJgKuANY9Hp?embed&show_copy_link=true\" title=\"Welcome – badger – Google Cloud console\" frameborder=\"0\" loading=\"lazy\" webkitallowfullscreen mozallowfullscreen allowfullscreen allow=\"clipboard-write\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;\"></iframe></div>"
 }
-[/block]
+[/block] -->
 
 
 <br />
