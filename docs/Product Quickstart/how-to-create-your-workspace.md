@@ -57,7 +57,7 @@ The product analytics block type lists all visualizations that you can create on
 
 As soon as you click a block type, you will have to configure and basically design it as per your requirement. 
 
-To learn more about configuring the product analytics blocks, refer to the [Product Analysis section of the docs](https://docs.houseware.io/docs/funnels).
+To learn more about configuring the product analytics blocks, refer to the [Product Analysis section of the docs](https://ayerajath.github.io/houseware-docs-export/docs/funnels).
 
 ### Types of blocks
 

@@ -105,4 +105,4 @@ Breakdowns enable you to go deeper and compare the drivers for certain user acti
 
 ***
 
-That's it! Hope this helps you to build stickiness blocks on Houseware and visualize your user engagement. Got questions or feedback? Reach out to us on Slack or at [support@tryhouseware.com](mailto:support@tryhouseware.com).
+That's it! Hope this helps you to build stickiness blocks on Houseware and visualize your user engagement. Got questions or feedback? Reach out to us on Slack or at [support@tryhouseware.com](@mailto:support@tryhouseware.com).

@@ -6,7 +6,7 @@ hidden: false
 createdAt: "Fri Aug 25 2023 06:47:05 GMT+0000 (Coordinated Universal Time)"
 updatedAt: "Wed Mar 20 2024 09:39:29 GMT+0000 (Coordinated Universal Time)"
 ---
-In Houseware, Cohorts are a group of users that share common characteristics. They are super useful to analyze your data only for a particular set of users. It is an ideal combination of user properties and actual event-based behavior on the product. To know more about it, refer to [building blocks of Houseware](https://docs.houseware.io/docs/building-blocks-of-houseware#cohorts).
+In Houseware, Cohorts are a group of users that share common characteristics. They are super useful to analyze your data only for a particular set of users. It is an ideal combination of user properties and actual event-based behavior on the product. To know more about it, refer to [building blocks of Houseware](https://ayerajath.github.io/houseware-docs-export/docs/building-blocks-of-houseware#cohorts).
 
 ![Cohorts page on Houseware](https://files.readme.io/700898f-Screenshot_2023-08-25_at_5.18.53_PM.png)
 

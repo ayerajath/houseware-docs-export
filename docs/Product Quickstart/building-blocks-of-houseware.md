@@ -16,7 +16,7 @@ Before deep-diving into all its features and functionalities, let's understand i
 
 The key concepts listed here will help familiarize you with Houseware's core concepts and definition and be able to use the product at its best.
 
-## [Events](https://docs.houseware.io/docs/events)
+## [Events](https://ayerajath.github.io/houseware-docs-export/docs/events)
 
 An event is a data point representing each unique action the user takes on your product. For example, clicking the 'start workout' button on a fitness app will be recorded as an event. 
 
@@ -33,9 +33,9 @@ On Houseware, events are the fundamental unit of each product analytics visualiz
 > 2. Create custom events
 > 3. Hide and show events
 
-To learn more about connecting your events data to Houseware, refer to this article here: :point_right: [How to set up Houseware.](https://docs.houseware.io/docs/how-to-connect-your-product-data-to-houseware#step-by-step-guide)
+To learn more about connecting your events data to Houseware, refer to this article here: :point_right: [How to set up Houseware.](https://ayerajath.github.io/houseware-docs-export/docs/how-to-connect-your-product-data-to-houseware#step-by-step-guide)
 
-## [Users](https://docs.houseware.io/docs/users)
+## [Users](https://ayerajath.github.io/houseware-docs-export/docs/users)
 
 Each unique individual performing an event on the product is a user. For example, the unique person who clicks the 'start workout' button will be a product user.
 
@@ -67,7 +67,7 @@ Attributes describing a user are called user properties. For example, a user's '
 *User and Event properties present in the visualization's config*
 
 
-## [Cohorts](https://docs.houseware.io/docs/cohorts)
+## [Cohorts](https://ayerajath.github.io/houseware-docs-export/docs/cohorts)
 
 A cohort is a specific group of users segmented based on certain user properties or exhibit similar behavior on the product by performing similar events or sequences of events. For example, 'highly engaged users in Chicago' can be a cohort with user property 'city' selected as Chicago, and an event behavior can be 'completed training' more than 5 times a week.
 
@@ -82,7 +82,7 @@ Houseware lets its users create these cohorts by specifying the user property or
 > 
 > Cohorts can be used as filters or used to breakdown flows, funnels, retention, trends, etc. visualizations on Houseware to analyze data only for a specific set of users.
 
-## [Workspaces](https://docs.houseware.io/docs/how-to-create-your-workspace)
+## [Workspaces](https://ayerajath.github.io/houseware-docs-export/docs/how-to-create-your-workspace)
 
 A workspace in Houseware is where you can start doing your analysis by adding visualizations (flows, funnels, trends, etc.), texts, or any other embeds you want.
 
@@ -99,4 +99,4 @@ As the name describes, it acts as your personal workspace where you can experime
 *Houseware Workspace Home*
 
 
-Excited to start using Houseware?! :zap: Refer to the [Product Analysis](https://docs.houseware.io/docs/funnels) section of the docs to learn more about each visualization :bar_chart: available to analyze your product analytics data on Houseware.
+Excited to start using Houseware?! :zap: Refer to the [Product Analysis](https://ayerajath.github.io/houseware-docs-export/docs/funnels) section of the docs to learn more about each visualization :bar_chart: available to analyze your product analytics data on Houseware.

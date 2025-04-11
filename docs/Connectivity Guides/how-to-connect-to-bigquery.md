@@ -16,7 +16,7 @@ This step-by-step guide will enable the Houseware application to access your eve
 
 ### Step 1: Get Houseware's Google Cloud Platform service account
 
-Houseware will create a service account for your organization and provide you with a service account email, typically in the format of \<YOUR_ORG>-serviceaccount@[xyz.iam.gserviceaccount.com](mailto:xyz@abc.com).
+Houseware will create a service account for your organization and provide you with a service account email, typically in the format of <YOUR_ORG>-serviceaccount@[xyz.iam.gserviceaccount.com](@mailto:xyz@abc.com).
 
 ### Step 2: Grant required permissions to the service account
 

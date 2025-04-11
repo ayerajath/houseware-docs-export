@@ -24,5 +24,5 @@ Welcome to the official documentation for Houseware. This documentation will gui
 
 ## Need Help?
 
-- Check out our [FAQs](/docs/FAQs/houseware-vs-amplitude-vs-mixpanel) for common questions
-- Visit our [GitHub repository](https://github.com/houseware/houseware-docs-export) for updates and contributions 
+- Check out our [FAQs](https://ayerajath.github.io/houseware-docs-export/docs/FAQs/houseware-vs-amplitude-vs-mixpanel) for common questions
+- Visit our [GitHub repository](@https://github.com/houseware/houseware-docs-export) for updates and contributions 

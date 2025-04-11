@@ -34,4 +34,4 @@ On Houseware, cohorts can primarily be used in two ways:
 *Breakdown on Funnels using cohorts*
 
 
-:star2:**How to create cohorts on Houseware:** Refer to this detailed article :point_right: [here](https://docs.houseware.io/docs/how-to-create-a-cohort)
+:star2:**How to create cohorts on Houseware:** Refer to this detailed article :point_right: [here](https://ayerajath.github.io/houseware-docs-export/docs/how-to-create-a-cohort)

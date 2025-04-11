@@ -41,10 +41,10 @@ With Houseware, you can slice, dice, and visualize your product data precisely t
 
 > ✨ Key Capabilities:
 > 
-> - [Funnels](https://docs.houseware.io/docs/funnels)
-> - [Flows](https://ask.houseware.io/en/articles/6902723-flows)
-> - [Trends](https://ask.houseware.io/en/articles/7034493-trends)
-> - [Cohorts](https://ask.houseware.io/en/articles/8032320-how-to-create-cohorts)
+> - [Funnels](https://ayerajath.github.io/houseware-docs-export/docs/funnels)
+> - [Flows](https://ayerajath.github.io/houseware-docs-export/docs/flows)
+> - [Trends](https://ayerajath.github.io/houseware-docs-export/docs/trends)
+> - [Cohorts](https://ayerajath.github.io/houseware-docs-export/docs/cohorts)
 
 <br />
 
@@ -64,8 +64,8 @@ Due to Houseware's warehouse-native architecture, customer data or data transfor
 
 > ✨ Key Capabilities:
 > 
-> - [Connect Houseware to Snowflake](https://docs.houseware.io/docs/how-to-connect-to-snowflake)
-> - [Connect Houseware to BQ](https://docs.houseware.io/docs/how-to-connect-to-bigquery)
+> - [Connect Houseware to Snowflake](https://ayerajath.github.io/houseware-docs-export/docs/how-to-connect-to-snowflake)
+> - [Connect Houseware to BQ](https://ayerajath.github.io/houseware-docs-export/docs/how-to-connect-to-bigquery)
 
 <br />
 
@@ -74,7 +74,7 @@ Due to Houseware's warehouse-native architecture, customer data or data transfor
 *Houseware on Snowflake*
 
 
-If you are curious to know more about Houseware, watch [Houseware at Snowflake Summit 2023](https://youtu.be/z9_t1dnaO6E) 
+If you are curious to know more about Houseware, watch [Houseware at Snowflake Summit 2023](@https://youtu.be/z9_t1dnaO6E) 
 
 <br />
 

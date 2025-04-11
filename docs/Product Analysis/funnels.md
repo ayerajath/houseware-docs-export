@@ -76,10 +76,10 @@ Once your Funnel block is created, a config selection menu will open on the righ
 
 
 1. **Events**: Select Events that you want to see in the Funnel sequence.
-2. **[Conversion Criteria](https://docs.houseware.io/docs/funnels#how-is-the-conversion-rate-calculated)**: 
+2. **[Conversion Criteria](https://ayerajath.github.io/houseware-docs-export/docs/funnels#how-is-the-conversion-rate-calculated)**: 
    1. Counting Criteria: Choose if you want to see unique users or the total number of times a user was converted to each step of the funnel.
    2. Conversion Window: Choose under what time duration a user should be converted to be counted in your funnel.
-      > 👀 **Note:** To know more details about the conversion criteria, check out our [FAQ sction](https://docs.houseware.io/docs/funnels#how-is-the-conversion-rate-calculated).
+      > 👀 **Note:** To know more details about the conversion criteria, check out our [FAQ section](https://ayerajath.github.io/houseware-docs-export/docs/funnels#how-is-the-conversion-rate-calculated).
 3. **View**: Select the type of funnel view you want to see. It can of three types:
    1. Steps view: It shows all the steps in the form of a bar chart and the converted %'s and counts at each step. By default, the funnel will show by this view only.
    2. Trends view: It shows a conversion line chart over time
@@ -125,7 +125,7 @@ Use the "x" icon to remove an event. You can even change the order by clicking o
 
 ## Conversion Criteria
 
-### [Counting Criteria](https://docs.houseware.io/docs/funnels#how-can-i-get-a-count-or--of-unique-users-converted-between-each-funnel-step)
+### [Counting Criteria](https://ayerajath.github.io/houseware-docs-export/docs/funnels#how-can-i-get-a-count-or--of-unique-users-converted-between-each-funnel-step)
 
 Counting criteria determines how many times Houseware counts a particular user's activity towards conversions. Funnels can be calculated by Uniques and Totals. Funnels are calculated by Uniques by default, criteria can be changed by using the apt option from the dropdown.
 
@@ -163,7 +163,7 @@ The funnel visualization can be viewed in 3 ways:
 
 The Funnel steps view is the default view.
 
-### [Time to Convert View](https://docs.houseware.io/docs/funnels#how-are-the-time-intervals-calculated-in-the-time-to-convert-view)
+### [Time to Convert View](https://ayerajath.github.io/houseware-docs-export/docs/funnels#how-are-the-time-intervals-calculated-in-the-time-to-convert-view)
 
 We often need to analyze how much time users take between two events on the product. Select Time to Convert (from the drop-down list on the top-right of the visualization), to analyze how long users take to convert through your funnel.
 
@@ -176,7 +176,7 @@ By default, the interval for this chart is 2 minutes, but you can click on Inter
 *Time to Conver Funnel view*
 
 
-> 👀 **Note:** To know more about how time intervals are calculated, read more here in the [FAQ section](https://docs.houseware.io/docs/funnels#how-are-the-time-intervals-calculated-in-the-time-to-convert-view).
+> 👀 **Note:** To know more about how time intervals are calculated, read more here in the [FAQ section](https://ayerajath.github.io/houseware-docs-export/docs/funnels#how-are-the-time-intervals-calculated-in-the-time-to-convert-view).
 
 ### Funnel Trends view
 
@@ -297,7 +297,7 @@ When counting for uniques (unique users), the conversion window for a given Funn
 
 Whereas in the case of Totals (total events), each time the first step event gets triggered, the conversion window gets reset and **starts from the latest occurrence of A**.
 
-The steps configured in the Funnel are also [loosely ordered](https://docs.houseware.io/docs/funnels#what-counts-as-a-conversion), as explained at the beginning of the article.
+The steps configured in the Funnel are also [loosely ordered](https://ayerajath.github.io/houseware-docs-export/docs/funnels#what-counts-as-a-conversion), as explained at the beginning of the article.
 
 ## How does Houseware connect events in a funnel?
 

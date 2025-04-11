@@ -28,7 +28,7 @@ Here are the key building blocks that power the Houseware Platform
 - **Entities**: Fundamental components representing distinct objects or items within your product ecosystem.
 - **Event Schema**: The structured format required to make events and user data available for analysis in Houseware.
 
-For detailed information on each building block, please refer to our comprehensive documentation [here](https://docs.houseware.io/docs/building-blocks-of-houseware).
+For detailed information on each building block, please refer to our comprehensive documentation [here](https://ayerajath.github.io/houseware-docs-export/docs/building-blocks-of-houseware).
 
 ***
 
@@ -39,7 +39,7 @@ Houseware's platform is designed for composability, allowing you to build a flex
 We follow the principle of "**Configuration over Convention**", allowing maximum flexibility to the end users to best design their use cases and solve their specific challenges:
 
 - **Choice of Warehouse**: Houseware supports integration with multiple data warehouses, providing flexibility and scalability for your analytics needs. Whether you are using Snowflake, BigQuery, or another data warehouse solution, Houseware ensures a consistent product experience.
-- **Flexible Schema**: Houseware’s schema is designed to be customizable to most event streams and flexible to any frequency, whether batch or real-time. This ensures that your data is always ready for analysis regardless of how it is ingested.
+- **Flexible Schema**: Houseware's schema is designed to be customizable to most event streams and flexible to any frequency, whether batch or real-time. This ensures that your data is always ready for analysis regardless of how it is ingested.
 - **Warehouse-Native**: Leverage the center of gravity of data in your organization by working natively within your existing data warehouse. This enables product teams to derive cross-functional insights by merging disparate data sources like clickstream events, transactional data, and SaaS datasets, all on the trusted data warehouse.
 - **Customizable**: Houseware allows users to build custom events, cohorts, and other analytics components tailored to their specific needs. This customization ensures that the analytics setup aligns perfectly with the business requirements.
 - **Integrations**: The composable platform approach enables inbound integrations(with CDPs/transaction DBs) and writeback syncs with a wide range of marketing, sales, and business tools, allowing for a best-of-breed approach to building your stack. These integrations can be managed programatically, allowing developers to build unique workflows.
@@ -176,7 +176,7 @@ Houseware is built with a "platform-first" approach, offering a robust and flexi
 - **Authentication**: Supports both API Key and JWT (JSON Web Token) authentication methods to secure access and ensure that only authorized users and applications can interact with the API.
 - **Documentation**: Comprehensive and clear API documentation is provided to guide developers through integration, including example requests and responses, parameter descriptions, and use case scenarios.
 
-To get started with the Houseware Platform API, refer to our detailed guide [here](https://docs.houseware.io/reference).
+To get started with the Houseware Platform API, refer to our detailed guide [here](https://ayerajath.github.io/houseware-docs-export/reference).
 
 ***
 
@@ -188,8 +188,8 @@ Houseware prioritizes security to provide a safe platform for viewing, exploring
 - **Governance**: Houseware implements a minimum-access policy, granting users only the permissions necessary to perform their tasks. Our multi-tenant architecture ensures complete segregation of data and execution environments between clients, providing robust data isolation and security.
 - **SOC 2 Type II Compliance**: Houseware is SOC 2 Type II compliant, with annual renewals and rigorous security practices.
 
-Read here to know more: [Houseware's Security and Compliance Principles](https://docs.houseware.io/docs/houseware-security-overview)
+Read here to know more: [Houseware's Security and Compliance Principles](https://ayerajath.github.io/houseware-docs-export/docs/houseware-security-overview)
 
 ***
 
-:rocket: By understanding these building blocks and leveraging Houseware’s API's flexibility, you can drive insightful and secure product analytics that adapt to your evolving business needs.
+:rocket: By understanding these building blocks and leveraging Houseware's API's flexibility, you can drive insightful and secure product analytics that adapt to your evolving business needs.

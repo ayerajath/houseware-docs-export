@@ -32,4 +32,4 @@ You can use the "Try It Out" feature to test API requests directly from the docu
 
 ***
 
-Check out these APIs in action on the docs! If you're running into any trouble, reach out to the Houseware team on Slack or at [support@houseware.io](mailto:support@houseware.io)
+Check out these APIs in action on the docs! If you're running into any trouble, reach out to the Houseware team on Slack or at [support@houseware.io](@mailto:support@houseware.io)

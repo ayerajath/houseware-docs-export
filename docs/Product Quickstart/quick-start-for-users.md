@@ -37,7 +37,7 @@ As you log in, you will be straightaway directed to your workspaces, as shown be
 
 Inside each workspace, a block such as - text, visualizations, embeds, etc. can be added to curate your product analytics workspace as required. Below is a screenshot of a demo workspace containing the block type - `visualization` which can be used to create powerful product analytics visualizations like trends, funnels, flows, etc.
 
-To know more about how to create these powerful visualizations, [read here](https://ask.houseware.io/en/collections/4532076-analysis).
+To know more about how to create these powerful visualizations, [read here](https://ayerajath.github.io/houseware-docs-export/docs/analysis).
 
 ![](https://files.readme.io/b4323d3-Screenshot_2023-08-11_at_4.27.38_PM.png)
 
